@@ -10,7 +10,7 @@ Note:
    interested in cryptography in crypto.
 2. Do not use frameworks.
 
-How to use?
+#How to use?  
 Create a mysql table and populate it with queries from database.sql file.
 
 Mysql connection needs to be configured in controllers/mysql.go lines 25-31
